@@ -1,5 +1,5 @@
 package ru.netology.domain;
 
-public class ViewsService {
+public class ViewsInfo {
     private int count;
 }

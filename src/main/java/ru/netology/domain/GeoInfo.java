@@ -1,8 +1,8 @@
 package ru.netology.domain;
 
-public class GeoService {
+public class GeoInfo {
     private String type;
     private String coordinates;
 
-    private PlaceService placeService;
+    private PlaceInfo placeInfo;
 }

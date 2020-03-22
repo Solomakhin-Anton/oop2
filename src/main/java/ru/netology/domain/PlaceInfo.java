@@ -1,6 +1,6 @@
 package ru.netology.domain;
 
-public class PlaceService {
+public class PlaceInfo {
     private int id;
     private String title;
     private int latitude;

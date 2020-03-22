@@ -16,11 +16,11 @@ public class Post {
     private boolean markedAsAds;
     private boolean isFavorite;
 
-    private CommentsService commentsService;
-    private GeoService geoService;
-    private LikesService likesService;
-    private RepostsService repostsService;
-    private ViewsService viewsService;
+    private CommentsInfo commentsInfo;
+    private GeoInfo geoInfo;
+    private LikesInfo likesInfo;
+    private RepostsInfo repostsInfo;
+    private ViewsInfo viewsInfo;
 
     private String imageUrl;
 
